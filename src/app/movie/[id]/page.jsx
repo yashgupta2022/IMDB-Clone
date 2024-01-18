@@ -19,9 +19,7 @@ export default async function MoviePage({params}) {
                         <p className="text-lg mb-3">{movie.overview}</p>
                         <p className="mb-3"><span className="font-semibold mr-1"> Date Released : </span>
                         {movie.release_date || movie.first_air_date}</p>
-                        <p ><span className="font-semibold mr-1"> Rating : </span>{movie.vote_count}</p>
-                        {console.log(movie)}
-                        
+                        <p ><span className="font-semibold mr-1"> Rating : </span>{movie.vote_count}</p>                       
                     </div>
                 </div>
                 <div>
