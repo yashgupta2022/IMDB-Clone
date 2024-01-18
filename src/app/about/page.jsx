@@ -7,7 +7,7 @@ export default function page() {
         <p>
             <b>Welcome to IMDb Clone - Your Ultimate Entertainment Hub!</b>
             <p>
-            At IMDb Clone, we strive to be your go-to destination for all things related to movies, TV shows, and more. Our journey began with a passion for cinema and a vision to create a user-friendly platform that celebrates the magic of storytelling. Whether you're a seasoned cinephile or just looking for your next binge-worthy series, IMDb Clone is designed to be your comprehensive guide to the world of entertainment.
+            At IMDb Clone, we strive to be your go-to destination for all things related to movies, TV shows, and more. Our journey began with a passion for cinema and a vision to create a user-friendly platform that celebrates the magic of storytelling. Whether you are a seasoned cinephile or just looking for your next binge-worthy series, IMDb Clone is designed to be your comprehensive guide to the world of entertainment.
             </p>
         </p>
         <p>
@@ -19,7 +19,7 @@ export default function page() {
         <p>
             <b>Meet the Team: Passionate about Film, Devoted to You</b>
             <p>
-            Behind IMDb Clone is a dedicated team of movie enthusiasts, tech wizards, and design maestros who share a common love for the art of filmmaking. We're committed to continuously enhancing your experience on IMDb Clone, whether it's through intuitive features, up-to-date information, or a seamless user interface. Join us on this cinematic journey, and let's explore the incredible world of entertainment together. IMDb Clone - Where Every Click Takes You Closer to Movie Magic!
+            Behind IMDb Clone is a dedicated team of movie enthusiasts, tech wizards, and design maestros who share a common love for the art of filmmaking. We are committed to continuously enhancing your experience on IMDb Clone, whether it is through intuitive features, up-to-date information, or a seamless user interface. Join us on this cinematic journey, and let us explore the incredible world of entertainment together. IMDb Clone - Where Every Click Takes You Closer to Movie Magic!
             </p>
         </p>
     </div>
